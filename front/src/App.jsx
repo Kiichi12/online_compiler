@@ -51,7 +51,7 @@ function App() {
   return (
     <><div className="top-pane">
 
-      <h1>CODING JUDGE</h1>
+      <h1>CODING COMPILER</h1>
       
     </div>
     <div className="container">
